@@ -1,0 +1,8 @@
+﻿https://www.freelancer.in/projects/c-sharp-programming/need-sample-code-for-tableau/
+http://experimentsinbi.blogspot.com/2016/01/trusted-authentication-in-tableau-with.html
+https://community.tableau.com/thread/130481
+https://docplayer.net/5604351-Tableau-server-trusted-authentication.html
+https://tableauandbehold.com/2015/06/11/embedding-tableau-server-views-in-a-c-application-part-1/
+https://stackoverflow.com/questions/38373033/generate-tableau-trusted-ticket-doesnt-work-c-sharp
+https://tableaulove.com/tableau-server-webservice-authentication-c/
+https://community.tableau.com/docs/DOC-5251
